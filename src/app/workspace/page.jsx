@@ -3,8 +3,6 @@
 import Navbar from '@/components/generic/Navbar'
 import { Button } from '@/components/ui/button'
 import React, { useState, useEffect } from 'react'
-import FormTodo from '../formtodo'
-import Image from 'next/image'
 import { motion } from 'framer-motion'
 
 function Page() {
